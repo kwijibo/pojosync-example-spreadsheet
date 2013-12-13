@@ -1,0 +1,2 @@
+This is an example app using [pojosync](https://github.com/kwijibo/pojosync)
+
